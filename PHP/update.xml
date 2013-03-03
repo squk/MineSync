@@ -1,0 +1,24 @@
+<latest>
+<version>1.0.1.0</version>
+<download>http://www.xantecgames.com/MineSync/MineSync.exe</download>
+<changes>
+IF YOUR VERSION OF MINESYNC IS HAVING PROBLEMS DONWLOADING, PLEASE VISIT 
+http://www.xantecgames.com/MineSync/download.php
+
+v1.0.0.1
+-All worlds uploaded to the MineSync server now use AES256 encryption. 
+-Checks for new worlds from server in intervals now.
+
+v1.0.0.2
+-Disabled the check to see if Minecraft is running when starting MineSync
+-Option to open MineSync on startup. Located in settings. 
+
+v1.0.0.3
+-Bug fixes
+-UI Fix
+-UPDATER FIX!!
+
+IF YOUR VERSION OF MINESYNC IS HAVING PROBLEMS DONWLOADING, PLEASE VISIT 
+http://www.xantecgames.com/MineSync/download.php
+</changes>
+</latest>
